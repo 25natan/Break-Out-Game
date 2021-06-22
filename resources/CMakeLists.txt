@@ -1,0 +1,32 @@
+﻿configure_file ("stage1.txt" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("stage2.txt" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("stage3.txt" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("stage4.txt" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("errOutput.txt" ${CMAKE_BINARY_DIR} COPYONLY)
+
+
+
+configure_file ("ball.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("gift.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("brick.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("paddle.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("openingScreen.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("levelBar.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("helpBottom.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("backBottom.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("chooseLevelMsg.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("bullet.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("background.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("help.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("coin.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("board.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("failedMsg.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("wonMsg.png" ${CMAKE_BINARY_DIR} COPYONLY)
+
+
+configure_file ("failed.wav" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("won.wav" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("raise.wav" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("takeGift.wav" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("hit.wav" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("break.wav" ${CMAKE_BINARY_DIR} COPYONLY)
