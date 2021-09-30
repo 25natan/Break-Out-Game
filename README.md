@@ -6,6 +6,7 @@ In this game the user has to break out a walls
 made of bricks in diffrents strenths.
 The breaking is done by sending a ball from a paddle against the bricks.
 When the ball hits something it will go back in a hit-angle (like billiard balls).
+The user controlls the paddle and move left or right by the mouse.
 User is failed when the ball goes down the board.
 During the game the user can get gifts that are hidden behind
 the bricks and fall donw when they are broken.
