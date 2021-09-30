@@ -19,7 +19,7 @@ You can watch gameplay on youtube: https://youtu.be/3HtnXFIm8DA
 About this project:
 
 Creator: Nathan Ytzhaki - Student in Hadassah Academic College Jerusalem.
-This project was made as final project in my OOP-C++-Developing course.
+This project was made as final project in my OOP-Developing course.
 All the functionality in the game - espacialy the phisics movement calculations - was
 made all-new without using any other library or phisics engine.
 
