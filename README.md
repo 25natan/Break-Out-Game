@@ -12,6 +12,7 @@ the bricks and fall donw when they are broken.
 These gifts can change the speed of the ball, make it stronger (fire ball) or
 resize the paddle and all that can help him (or not...) breaking the bricks.
 User can also get life and points gifts.
+You can watch gameplay on youtube: https://youtu.be/3HtnXFIm8DA
 
 About this project:
 Creator: Nathan Ytzhaki - Student in Hadassah Academic College Jerusalem.
@@ -24,4 +25,5 @@ To build this game-project you must have SFML
 library downloaded on your computer and located 
 in the C directory because that is where the cmake directs the compiler to find it.
 When you have it you can build it (cmake project building) and run/debug as you wish.
+SFML can be downloded from: https://www.sfml-dev.org/download.php
 
